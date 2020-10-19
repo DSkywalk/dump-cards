@@ -11,5 +11,5 @@ Process some images on a PDF.
   --first first    Dump only first page for tests sizes.
 ```
 
-# requirements
+## install requirements
  `pdf2image`
